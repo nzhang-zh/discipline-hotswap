@@ -19,7 +19,7 @@ U 1 1 5D1D6221
 P 2000 1550
 F 0 "H1" H 2100 1601 50  0000 L CNN
 F 1 "MountingHole_Pad" H 2100 1510 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2_Pad_Via" H 2000 1550 50  0001 C CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 2000 1550 50  0001 C CNN
 F 3 "~" H 2000 1550 50  0001 C CNN
 	1    2000 1550
 	1    0    0    -1  
@@ -41,7 +41,7 @@ U 1 1 5ED6CC95
 P 2500 1550
 F 0 "H2" H 2600 1601 50  0000 L CNN
 F 1 "MountingHole_Pad" H 2600 1510 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2_Pad_Via" H 2500 1550 50  0001 C CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 2500 1550 50  0001 C CNN
 F 3 "~" H 2500 1550 50  0001 C CNN
 	1    2500 1550
 	1    0    0    -1  
@@ -63,7 +63,7 @@ U 1 1 5ED6FF4D
 P 3000 1550
 F 0 "H3" H 3100 1601 50  0000 L CNN
 F 1 "MountingHole_Pad" H 3100 1510 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2_Pad_Via" H 3000 1550 50  0001 C CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 3000 1550 50  0001 C CNN
 F 3 "~" H 3000 1550 50  0001 C CNN
 	1    3000 1550
 	1    0    0    -1  
@@ -85,7 +85,7 @@ U 1 1 5ED6FF59
 P 3500 1550
 F 0 "H4" H 3600 1601 50  0000 L CNN
 F 1 "MountingHole_Pad" H 3600 1510 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2_Pad_Via" H 3500 1550 50  0001 C CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 3500 1550 50  0001 C CNN
 F 3 "~" H 3500 1550 50  0001 C CNN
 	1    3500 1550
 	1    0    0    -1  
@@ -107,7 +107,7 @@ U 1 1 5ED71D27
 P 4000 2050
 F 0 "H9" H 4100 2101 50  0000 L CNN
 F 1 "MountingHole_Pad" H 4100 2010 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2_Pad_Via" H 4000 2050 50  0001 C CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 4000 2050 50  0001 C CNN
 F 3 "~" H 4000 2050 50  0001 C CNN
 	1    4000 2050
 	1    0    0    -1  
@@ -129,7 +129,7 @@ U 1 1 5ED71D33
 P 4500 2050
 F 0 "H10" H 4600 2101 50  0000 L CNN
 F 1 "MountingHole_Pad" H 4600 2010 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2_Pad_Via" H 4500 2050 50  0001 C CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 4500 2050 50  0001 C CNN
 F 3 "~" H 4500 2050 50  0001 C CNN
 	1    4500 2050
 	1    0    0    -1  
@@ -151,7 +151,7 @@ U 1 1 5ED71D3F
 P 2000 2550
 F 0 "H11" H 2100 2601 50  0000 L CNN
 F 1 "MountingHole_Pad" H 2100 2510 50  0000 L CNN
-F 2 "MountingHole:MountingHole_4.3mm_M4_Pad_Via" H 2000 2550 50  0001 C CNN
+F 2 "MountingHole:MountingHole_4.3mm_M4_Pad" H 2000 2550 50  0001 C CNN
 F 3 "~" H 2000 2550 50  0001 C CNN
 	1    2000 2550
 	1    0    0    -1  
@@ -173,7 +173,7 @@ U 1 1 5ED71D4B
 P 2500 2550
 F 0 "H12" H 2600 2601 50  0000 L CNN
 F 1 "MountingHole_Pad" H 2600 2510 50  0000 L CNN
-F 2 "MountingHole:MountingHole_4.3mm_M4_Pad_Via" H 2500 2550 50  0001 C CNN
+F 2 "MountingHole:MountingHole_4.3mm_M4_Pad" H 2500 2550 50  0001 C CNN
 F 3 "~" H 2500 2550 50  0001 C CNN
 	1    2500 2550
 	1    0    0    -1  
@@ -195,7 +195,7 @@ U 1 1 5ED7E38D
 P 2000 2050
 F 0 "H5" H 2100 2101 50  0000 L CNN
 F 1 "MountingHole_Pad" H 2100 2010 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2_Pad_Via" H 2000 2050 50  0001 C CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 2000 2050 50  0001 C CNN
 F 3 "~" H 2000 2050 50  0001 C CNN
 	1    2000 2050
 	1    0    0    -1  
@@ -217,7 +217,7 @@ U 1 1 5ED7E399
 P 2500 2050
 F 0 "H6" H 2600 2101 50  0000 L CNN
 F 1 "MountingHole_Pad" H 2600 2010 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2_Pad_Via" H 2500 2050 50  0001 C CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 2500 2050 50  0001 C CNN
 F 3 "~" H 2500 2050 50  0001 C CNN
 	1    2500 2050
 	1    0    0    -1  
@@ -239,7 +239,7 @@ U 1 1 5ED7E3A5
 P 3000 2050
 F 0 "H7" H 3100 2101 50  0000 L CNN
 F 1 "MountingHole_Pad" H 3100 2010 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2_Pad_Via" H 3000 2050 50  0001 C CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 3000 2050 50  0001 C CNN
 F 3 "~" H 3000 2050 50  0001 C CNN
 	1    3000 2050
 	1    0    0    -1  
@@ -261,7 +261,7 @@ U 1 1 5ED7E3B1
 P 3500 2050
 F 0 "H8" H 3600 2101 50  0000 L CNN
 F 1 "MountingHole_Pad" H 3600 2010 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2_Pad_Via" H 3500 2050 50  0001 C CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 3500 2050 50  0001 C CNN
 F 3 "~" H 3500 2050 50  0001 C CNN
 	1    3500 2050
 	1    0    0    -1  
